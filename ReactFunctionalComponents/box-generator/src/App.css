@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.color{
+  height: 200px;
+  width: 200px;
+  border:2px solid black;
+  margin-bottom: 200px;
+  padding:100px;
+  /* background-color: blue; */
+  display: inline-flex;
+  margin-right: 20px;
+}
